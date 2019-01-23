@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TCP Server</string>
+    <string name="permission_denied_close_app">Permission denied. Closing app!</string>
+    <string name="port">Port:</string>
+</resources>
