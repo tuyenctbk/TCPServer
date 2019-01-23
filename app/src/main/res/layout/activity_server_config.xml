@@ -19,6 +19,7 @@
         <EditText android:layout_width="wrap_content" android:layout_height="wrap_content"
                   style="@android:style/TextAppearance.Large"
                   android:textColor="@android:color/black"
+                  android:id="@+id/etPort"
                   android:layout_weight="1"/>
     </LinearLayout>
 
